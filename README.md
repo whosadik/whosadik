@@ -8,4 +8,7 @@
 
 🚁 Currently learning how to program autonomous drones (ROS, MAVROS)
 
+🛠 Tech Stack:
+JavaScript · React · HTML/CSS · Python · MongoDB · ROS · MAVROS
+
 📫 Reach me on Telegram: [@adikmaan](https://t.me/adikmaan)
