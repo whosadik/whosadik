@@ -1,4 +1,4 @@
-👋 Hey! I’m Adilzhan
+⚡ Adilzhan here – frontend meets drones & AI
 
 🎓 3rd-year Software Engineering student at Astana IT University 
 
