@@ -1,6 +1,6 @@
 🎓 3rd-year Software Engineering student at Astana IT University 
 
 🛠 Tech Stack:
-JavaScript · React · HTML/CSS · Python · MongoDB · ROS · MAVROS
+JavaScript · React · Python · MongoDB · ROS · MAVROS
 
 📫 Reach me on Telegram: [@adikmaan](https://t.me/adikmaan)
