@@ -1,4 +1,4 @@
-🎓 3rd-year Software Engineering student at Astana IT University 
+🎓 Software Engineer | Alumnus of Astana IT University
 
 🛠 Tech Stack:
 JavaScript · React · Python · MongoDB · ROS · MAVROS
